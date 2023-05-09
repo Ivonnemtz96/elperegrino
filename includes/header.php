@@ -3,22 +3,23 @@
         <div class="row">
             <div class="col-lg-5 col-md-5 d-flex align-items-center justify-content-md-start justify-content-center">
                 <div class="open-time">
-                    <p><span>Opening Hour:</span> 9.00 am to 10.00 pm</p>
+                    <p><span>Horario</span> 1:00 pm to 11:00 pm</p>
                 </div>
             </div>
             <div class="col-lg-7 col-md-7 d-flex justify-content-end">
                 <div class="contact-info">
                     <ul>
                         <li>
-                            <a
-                                href="https://demo.egenslab.com/cdn-cgi/l/email-protection#bbd2d5ddd4fbdec3dad6cbd7de95d8d4d6"><i
-                                    class="bi bi-envelope"></i>
-                                <span class="__cf_email__"
-                                    data-cfemail="4b22252d240b2e332a263b272e65282426">[email&#160;protected]</span></a>
+                            <a target="_blank" href="mailto:info@elperegrino.com">
+                                <i class="bi bi-envelope"></i>
+                                info@elperegrino.com
+                            </a>
                         </li>
                         <li>
-                            <a><i class="bi bi-geo-alt"></i>Road-01, Block-B, West London
-                                City</a>
+                            <a href="https://goo.gl/maps/8uABdiNuTdpxQZeL7?coh=178573&entry=tt" target="_blank">
+                                <i class="bi bi-geo-alt"></i>
+                                Cabo San Lucas
+                            </a>
                         </li>
                     </ul>
                 </div>
@@ -42,73 +43,12 @@
                 </div>
             </div>
             <ul class="menu-list">
-                <li class="menu-item-has-children active">
-                    <a href="#" class="drop-down">Home</a><i class="bi bi-plus dropdown-icon"></i>
-                    <ul class="sub-menu">
-                        <li><a href="index.html">Home One</a></li>
-                        <li><a class="active" href="index2.html">Home Two</a></li>
-                        <li><a href="index3.html">Home Three</a></li>
-                    </ul>
+                <li class="active">
+                    <a href="#" >Inicio</a>
                 </li>
-                <li><a href="about.html">About</a></li>
-                <li class="menu-item-has-children">
-                    <a href="#">Menu</a><i class="bi bi-plus dropdown-icon"></i>
-                    <ul class="sub-menu">
-                        <li><a href="menu1.html">Menu List-01</a></li>
-                        <li><a href="menu2.html">Menu List-02</a></li>
-                        <li><a href="3col-menu.html">3 Columns Menu</a></li>
-                    </ul>
-                </li>
-                <li class="menu-item-has-children">
-                    <a href="#" class="drop-down">Pages</a><i class="bi bi-plus dropdown-icon"></i>
-                    <ul class="sub-menu">
-                        <li><a href="category.html">Food Category</a></li>
-                        <li><a href="reservation.html">Reservation</a></li>
-                        <li>
-                            <a href="2col-gallery.html">Gallery</a><i
-                                class="d-lg-flex d-none bi bi-chevron-right dropdown-icon"></i>
-                            <i class="d-lg-none d-flex bi bi-chevron-down dropdown-icon"></i>
-                            <ul class="sub-menu">
-                                <li><a href="2col-gallery.html">2 Columns Gallery </a></li>
-                                <li><a href="3col-gallery.html">3 Columns Gallery </a></li>
-                                <li>
-                                    <a href="mesonary-gallery.html">Mesonary Gallery</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="chef-expertis.html">Chef</a><i
-                                class="d-lg-flex d-none bi bi-chevron-right dropdown-icon"></i>
-                            <i class="d-lg-none d-flex bi bi-chevron-down dropdown-icon"></i>
-                            <ul class="sub-menu">
-                                <li><a href="chef-expertis.html">Chef Experties</a></li>
-                                <li><a href="chef-details.html">Chef Details</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="shop.html">Shop</a><i
-                                class="d-lg-flex d-none bi bi-chevron-right dropdown-icon"></i>
-                            <i class="d-lg-none d-flex bi bi-chevron-down dropdown-icon"></i>
-                            <ul class="sub-menu">
-                                <li><a href="shop.html">Shop</a></li>
-                                <li><a href="shop-details.html">Shop Details</a></li>
-                                <li><a href="cart.html">Cart</a></li>
-                                <li><a href="check-out.html">Checkout</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="faq.html">Faq</a></li>
-                        <li><a href="error.html">Error</a></li>
-                    </ul>
-                </li>
-                <li class="menu-item-has-children">
-                    <a href="#">Blog</a><i class="bi bi-plus dropdown-icon"></i>
-                    <ul class="sub-menu">
-                        <li><a href="blog-grid.html">Blog Grid</a></li>
-                        <li><a href="blog-standard.html">Blog Standard</a></li>
-                        <li><a href="blog-details.html">Blog Details</a></li>
-                    </ul>
-                </li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="about.html">Nosotros</a></li>
+                <li><a href="about.html">Galería</a></li>
+                <li><a href="about.html">Menú</a></li>
             </ul>
             <div class="hotline d-lg-none d-flex mb-30">
                 <div class="hotline-icon">
@@ -125,16 +65,16 @@
                     </svg>
                 </div>
                 <div class="hotline-info">
-                    <span>Call Now</span>
-                    <h6><a href="tel:+998-8776345">+998-8776345</a></h6>
+                    <span>Márcanos</span>
+                    <h6><a href="tel:+526246884872">624 688 4872</a></h6>
                 </div>
             </div>
             <div class="reservation-btn d-lg-none d-flex">
-                <a href="reservation.html" class="primary-btn4 btn-md">Find Reservation</a>
+                <a href="reservation.html" class="primary-btn4 btn-md">Contactar</a>
             </div>
         </div>
         <div class="nav-right d-flex jsutify-content-end align-items-center">
-            <a href="reservation.html" class="primary-btn4 btn-md">Find Reservation</a>
+            <a href="reservation.html" class="primary-btn4 btn-md">Contactar</a>
             <div class="sidebar-button mobile-menu-btn">
                 <i class="bi bi-list"></i>
             </div>
