@@ -23,13 +23,13 @@
                         </a>
                     </div>
                     <div class="banner-right">
-                        <img class="img-fluid h2-banner-img1" src="assets/images/bg/h2-banner-img11.png"
+                        <img class="img-fluid h2-banner-img1" src="assets/images/bg/h2-banner-img11.png?=1"
                             alt="h2-banner-img1" />
-                        <img class="img-fluid h2-banner-img3" src="assets/images/bg/h2-banner-img33.png"
+                        <img class="img-fluid h2-banner-img3" src="assets/images/bg/h2-banner-img33.png?=1"
                             alt="h2-banner-img3" />
-                        <img class="img-fluid h2-banner-img2" src="assets/images/bg/h2-banner-img22.png"
+                        <img class="img-fluid h2-banner-img2" src="assets/images/bg/h2-banner-img22.png?=1"
                             alt="h2-banner-img2" />
-                        <img class="img-fluid h2-banner-img4" src="assets/images/bg/h2-banner-img44.png"
+                        <img class="img-fluid h2-banner-img4" src="assets/images/bg/h2-banner-img44.png?=1"
                             alt="h2-banner-img4" />
                     </div>
                 </div>
@@ -52,13 +52,13 @@
                         </a>
                     </div>
                     <div class="banner-right">
-                        <img class="img-fluid h2-banner-img1" src="assets/images/bg/h2-banner-img111.png"
+                        <img class="img-fluid h2-banner-img1" src="assets/images/bg/h2-banner-img111.png?=1"
                             alt="h2-banner-img1" />
-                        <img class="img-fluid h2-banner-img3" src="assets/images/bg/h2-banner-img333.png"
+                        <img class="img-fluid h2-banner-img3" src="assets/images/bg/h2-banner-img333.png?=1"
                             alt="h2-banner-img3" />
-                        <img class="img-fluid h2-banner-img2" src="assets/images/bg/h2-banner-img222.png"
+                        <img class="img-fluid h2-banner-img2" src="assets/images/bg/h2-banner-img222.png?=1"
                             alt="h2-banner-img2" />
-                        <img class="img-fluid h2-banner-img4" src="assets/images/bg/h2-banner-img444.png"
+                        <img class="img-fluid h2-banner-img4" src="assets/images/bg/h2-banner-img444.png?=1"
                             alt="h2-banner-img4" />
                     </div>
                 </div>
@@ -451,3 +451,17 @@
         </div>
     </div>
 </div>
+
+
+<div class="container">
+            <div class="section-title">
+                <span class="sub-title">Opiniones</span>
+                <h2>¿Qué dicen nuestros clientes?</h2>
+            </div>
+        </div>
+    <div class="container">
+        <div class="tagembed-container" style=" width:100%;height:100%;overflow: auto;">
+            <div class="tagembed-socialwall" data-wall-id="90943" view-url="https://widget.tagembed.com/90943"> </div>
+            <script src="//widget.tagembed.com/embed.min.js" type="text/javascript"></script>
+        </div>
+    </div>
