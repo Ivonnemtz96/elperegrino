@@ -19,7 +19,7 @@
                             Descubre una amplia variedad de platillos internacionales en El Peregrino
                         </p>
                         <a class="primary-btn5 btn-md2" href="about.html"><i class="bi bi-arrow-up-right-circle"></i>
-                            Discover More
+                            Ver más
                         </a>
                     </div>
                     <div class="banner-right">
@@ -46,8 +46,10 @@
                         <p>
                             El lugar perfecto para disfrutar de buena comida y buen ambiente.
                         </p>
-                        <a class="primary-btn5 btn-md2" href="about.html"><i
-                                class="bi bi-arrow-up-right-circle"></i>Discover More</a>
+                        <a class="primary-btn5 btn-md2" href="about.html">
+                            <i class="bi bi-arrow-up-right-circle"></i>
+                            Ver más
+                        </a>
                     </div>
                     <div class="banner-right">
                         <img class="img-fluid h2-banner-img1" src="assets/images/bg/h2-banner-img111.png"
@@ -312,92 +314,65 @@
     </div>
 </div>
 
-<div class="h2-best-chef mb-120">
-    <div class="container">
-        <div class="row d-flex align-items-center justify-content-center mb-40">
+<div class="contact-page pt-120" style="margin-bottom: 100px;">
+    <div class="container-fluid">
+        <div class="row d-flex justify-content-center mb-40">
             <div class="col-lg-8">
                 <div class="section-title text-center">
-                    <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />Our
-                        Experties<img class="right-vec" src="assets/images/icon/sub-title-vec.svg"
-                            alt="sub-title-vec" /></span>
-                    <h2>Restho's Best Chef</h2>
+                    <span>
+                        <img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                        Contáctanos
+                        <img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                    </span>
+                    <h2>¡Déjate sorprender por nuestras recetas! </h2>
                 </div>
             </div>
         </div>
-        <div class="row g-4 justify-content-center">
-            <div class="col-lg-4 col-md-6 col-sm-10">
-                <div class="best-chef-wrap">
-                    <div class="chef-img">
-                        <img class="img-fluid" src="assets/images/bg/chef-kitchen1.png" alt="chef-kitchen1" />
+        <div class="row justify-content-center g-4">
+            <div class="col-xxl-6 col-xl-4 col-lg-5 col-md-6 col-sm-8">
+                <div class="contact-wrap">
+                    <div class="contact-img">
+                        <img src="assets/images/bg/contact-img-01.png" alt="contact-img-01" />
                     </div>
-                    <div class="Chef-content text-center">
-                        <h3><a href="chef-details.html">Mr. Willium Jhon</a></h3>
-                        <p>Chef of Head</p>
+                    <div class="contact-content">
+                        <h3>NewYork Branch</h3>
                         <ul>
                             <li>
-                                <a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a>
+                                <div class="icon">
+                                    <img src="assets/images/icon/location.svg" alt="location" />
+                                </div>
+                                <div class="content">
+                                    <a>Mirpur DOHS, House-167/170,<br />
+                                        Road No-02, Avenue -01</a>
+                                </div>
                             </li>
                             <li>
-                                <a href="https://www.instagram.com/"><i class="bx bxl-instagram-alt"></i></a>
+                                <div class="icon">
+                                    <img src="assets/images/icon/phone.svg" alt="phone" />
+                                </div>
+                                <div class="content">
+                                    <a href="#">+990-7782200</a>
+                                </div>
                             </li>
                             <li>
-                                <a href="https://www.pinterest.com/"><i class="bx bxl-linkedin"></i></a>
-                            </li>
-                            <li>
-                                <a href="https://twitter.com/"><i class="bx bxl-twitter"></i></a>
+                                <div class="icon">
+                                    <img src="assets/images/icon/envlope.svg" alt="envlope" />
+                                </div>
+                                <div class="content">
+                                    <a href="#"><span class="__cf_email__"
+                                            data-cfemail="741d1a121b34110c15190418115a171b19">[email&#160;protected]</span></a>
+                                </div>
                             </li>
                         </ul>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-10">
-                <div class="best-chef-wrap">
-                    <div class="chef-img">
-                        <img class="img-fluid" src="assets/images/bg/chef-kitchen2.png" alt="chef-kitchen1" />
-                    </div>
-                    <div class="Chef-content text-center">
-                        <h3><a href="chef-details.html">Mile Woatson </a></h3>
-                        <p>Chef of Head</p>
-                        <ul>
-                            <li>
-                                <a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href="https://www.instagram.com/"><i class="bx bxl-instagram-alt"></i></a>
-                            </li>
-                            <li>
-                                <a href="https://www.pinterest.com/"><i class="bx bxl-linkedin"></i></a>
-                            </li>
-                            <li>
-                                <a href="https://twitter.com/"><i class="bx bxl-twitter"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-10">
-                <div class="best-chef-wrap">
-                    <div class="chef-img">
-                        <img class="img-fluid" src="assets/images/bg/chef-kitchen3.png" alt="chef-kitchen1" />
-                    </div>
-                    <div class="Chef-content text-center">
-                        <h3><a href="chef-details.html">Mr. Robert Jhon</a></h3>
-                        <p>Chef of Head</p>
-                        <ul>
-                            <li>
-                                <a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href="https://www.instagram.com/"><i class="bx bxl-instagram-alt"></i></a>
-                            </li>
-                            <li>
-                                <a href="https://www.pinterest.com/"><i class="bx bxl-linkedin"></i></a>
-                            </li>
-                            <li>
-                                <a href="https://twitter.com/"><i class="bx bxl-twitter"></i></a>
-                            </li>
-                        </ul>
-                    </div>
+            <div class="col-xxl-6 col-xl-4 col-lg-5 col-md-6 col-sm-8">
+                <div class="contact-wrap">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2675.245206007313!2d-109.91515764245001!3d22.888906624635776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4afa990b3aab%3A0xfd615a0b4d85c860!2sEl%20Peregrino!5e0!3m2!1ses-419!2smx!4v1683650968712!5m2!1ses-419!2smx"
+                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
@@ -412,10 +387,11 @@
         <div class="row d-flex align-items-center justify-content-center mb-40">
             <div class="col-lg-8">
                 <div class="section-title text-center">
-                    <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />Online
-                        Reserve<img class="right-vec" src="assets/images/icon/sub-title-vec.svg"
-                            alt="sub-title-vec" /></span>
-                    <h2>For Online Reservation</h2>
+                    <span>
+                        <img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                        ¡Reserva ahora!
+                        <img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" /></span>
+                    <h2>Déjate sorprender por nuestros deliciosos platillos</h2>
                 </div>
             </div>
         </div>
@@ -425,17 +401,17 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-6 col-md-6 mb-25">
                             <div class="form-inner">
-                                <input type="text" placeholder="Name*" />
+                                <input type="text" placeholder="Nombre*" />
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 mb-25">
                             <div class="form-inner">
-                                <input type="text" placeholder="Phone*" />
+                                <input type="text" placeholder="Teléfono*" />
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 mb-25">
                             <div class="form-inner">
-                                <input type="text" placeholder="People" />
+                                <input type="text" placeholder="Pax" />
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 mb-25">
@@ -446,119 +422,31 @@
                         <div class="col-lg-6 col-md-6 mb-25">
                             <div class="form-inner">
                                 <select class="time-select">
-                                    <option value="time">08 : 00 am</option>
-                                    <option>09 : 00 am</option>
-                                    <option value="1">10 : 00 am</option>
-                                    <option value="2">11 : 00 am</option>
-                                    <option value="3">12 : 00 pm</option>
-                                    <option value="4">01 : 00 pm</option>
-                                    <option value="5">02 : 00 pm</option>
-                                    <option value="6">03 : 00 pm</option>
-                                    <option value="7">04 : 00 pm</option>
-                                    <option value="8">05 : 00 pm</option>
-                                    <option value="9">06 : 00 pm</option>
-                                    <option value="10">07 : 00 pm</option>
-                                    <option value="11">08 : 00 pm</option>
-                                    <option value="12">09 : 00 pm</option>
-                                    <option value="13">10 : 00 pm</option>
+                                    <option value="1">01 : 00 pm</option>
+                                    <option value="2">02 : 00 pm</option>
+                                    <option value="3">03 : 00 pm</option>
+                                    <option value="4">04 : 00 pm</option>
+                                    <option value="5">05 : 00 pm</option>
+                                    <option value="6">06 : 00 pm</option>
+                                    <option value="7">07 : 00 pm</option>
+                                    <option value="8">08 : 00 pm</option>
+                                    <option value="9">09 : 00 pm</option>
+                                    <option value="10">10 : 00 pm</option>
                                 </select>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 sm-mb-25">
                             <div class="form-inner">
-                                <input type="email" placeholder="Email" />
+                                <input type="email" placeholder="Correo" />
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
                             <div class="form-inner">
-                                <button type="submit">Reserve Now</button>
+                                <button type="submit">Reservar</button>
                             </div>
                         </div>
                     </div>
                 </form>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="h2-blog-area mb-120">
-    <div class="container">
-        <div class="row d-flex align-items-center justify-content-center mb-40">
-            <div class="col-lg-8">
-                <div class="section-title text-center">
-                    <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />Our
-                        Blog<img class="right-vec" src="assets/images/icon/sub-title-vec.svg"
-                            alt="sub-title-vec" /></span>
-                    <h2>Our Latest Blog</h2>
-                </div>
-            </div>
-        </div>
-        <div class="row g-4 justify-content-center">
-            <div class="col-lg-4 col-md-6 col-sm-10">
-                <div class="h2-blog-card">
-                    <div class="blog-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-blog1.png" alt="h2-blog1" />
-                        <div class="batch">
-                            <a href="blog-grid.html"><span>17</span><br />Apr</a>
-                        </div>
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <a href="blog-grid.html">By Clone Watson</a>
-                        </div>
-                        <h3>
-                            <a href="blog-details.html">To Make Good Health Take Nutrition Food.</a>
-                        </h3>
-                        <div class="read-more-btn">
-                            <a href="blog-details.html"><span>Read More</span><span><i
-                                        class="bi bi-arrow-right"></i></span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-10">
-                <div class="h2-blog-card">
-                    <div class="blog-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-blog2.png" alt="h2-blog1" />
-                        <div class="batch">
-                            <a href="blog-grid.html"><span>18</span><br />Apr</a>
-                        </div>
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <a href="blog-grid.html">By Hilary Watson</a>
-                        </div>
-                        <h3>
-                            <a href="blog-details.html">Eat at Some Nutition Food & Happy Leadlife.</a>
-                        </h3>
-                        <div class="read-more-btn">
-                            <a href="blog-details.html"><span>Read More</span><span><i
-                                        class="bi bi-arrow-right"></i></span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-10">
-                <div class="h2-blog-card">
-                    <div class="blog-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-blog3.png" alt="h2-blog1" />
-                        <div class="batch">
-                            <a href="blog-grid.html"><span>17</span><br />Apr</a>
-                        </div>
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <a href="blog-grid.html">By Clone Watson</a>
-                        </div>
-                        <h3>
-                            <a href="blog-details.html">Esay To Make Some Special Food In Home.</a>
-                        </h3>
-                        <div class="read-more-btn">
-                            <a href="blog-details.html"><span>Read More</span><span><i
-                                        class="bi bi-arrow-right"></i></span></a>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
