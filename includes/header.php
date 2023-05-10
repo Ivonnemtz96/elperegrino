@@ -50,7 +50,7 @@
                 </div>
             </div>
             <ul class="menu-list">
-                <li class="active">
+                <li>
                     <a href="/" >Inicio</a>
                 </li>
                 <li><a href="/#nosotros">Nosotros</a></li>
