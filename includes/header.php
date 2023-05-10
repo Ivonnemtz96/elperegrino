@@ -31,12 +31,19 @@
 <header class="header-area style-2">
     <div class="container-fluid d-flex justify-content-between align-items-center">
         <div class="header-logo">
-            <a href="index.html"><img alt="image" class="img-fluid" src="assets/images/header2-logo.svg" /></a>
+            <a href="index.html">
+                <!-- <img alt="image" class="img-fluid" src="assets/images/header2-logo.svg" /> -->
+                LOGO
+            </a>
         </div>
         <div class="main-menu">
             <div class="mobile-logo-area d-lg-none d-flex justify-content-between align-items-center">
                 <div class="mobile-logo-wrap">
-                    <a href="index.html"><img alt="image" src="assets/images/header1-logo.svg" /></a>
+                    <a href="index.html">
+                        <!-- <img alt="image" src="assets/images/header1-logo.svg" /> -->
+
+                        LOGO
+                    </a>
                 </div>
                 <div class="menu-close-btn">
                     <i class="bi bi-x-lg text-white"></i>

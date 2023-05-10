@@ -70,13 +70,13 @@
 
 <div class="h2-about-area pb-120" style="margin-top: 60px;">
     <div class="about-left2">
-        <img class="img-fluid" src="assets/images/bg/h2-about-img-full.png" alt="h2-about-img-full" />
+        <img class="img-fluid" src="assets/images/bg/h2-about-img-full.png?=1" alt="h2-about-img-full" />
     </div>
     <div class="about-left">
-        <img class="img-fluid h2-about-img1" src="assets/images/bg/h2-about-img1.png" alt="h2-about-img1" />
-        <img class="img-fluid h2-about-img3" src="assets/images/bg/h2-about-img3.png" alt="h2-about-img3" />
-        <img class="img-fluid h2-about-img2" src="assets/images/bg/h2-about-img2.png" alt="h2-about-img2" />
-        <img class="img-fluid h2-about-img4" src="assets/images/bg/h2-about-img4.png" alt="h2-about-img4" />
+        <img class="img-fluid h2-about-img1" src="assets/images/bg/h2-about-img1.png?=1" alt="h2-about-img1" />
+        <img class="img-fluid h2-about-img3" src="assets/images/bg/h2-about-img3.png?=1" alt="h2-about-img3" />
+        <img class="img-fluid h2-about-img2" src="assets/images/bg/h2-about-img2.png?=1" alt="h2-about-img2" />
+        <img class="img-fluid h2-about-img4" src="assets/images/bg/h2-about-img4.png?=1" alt="h2-about-img4" />
     </div>
     <div class="about-right">
         <div class="section-title">
@@ -210,10 +210,11 @@
         <div class="row d-flex align-items-center justify-content-center mb-40">
             <div class="col-lg-8">
                 <div class="section-title text-center">
-                    <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />Gallery
-                        Store<img class="right-vec" src="assets/images/icon/sub-title-vec.svg"
-                            alt="sub-title-vec" /></span>
-                    <h2>Our Special Gallery</h2>
+                    <span>
+                        <img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                        ¡No te quedes sin probar nuestros platillos!
+                        <img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" /></span>
+                    <h2>Galería</h2>
                 </div>
             </div>
         </div>
@@ -221,9 +222,9 @@
     <div class="swiper h2-gallery">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-1.png" data-fancybox="gallery" class="portfolio-img">
+                <a href="assets/images/bg/h2-gallery-big-1.jpg" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-1.png" alt="" />
+                        <img class="img-fluid" src="assets/images/bg/h2-gallery-1.jpg" alt="" />
                         <div class="overlay">
                             <img src="assets/images/icon/Zoom.svg" alt="" />
                         </div>
@@ -231,9 +232,9 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-2.png" data-fancybox="gallery" class="portfolio-img">
+                <a href="assets/images/bg/h2-gallery-big-2.jpg" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-2.png" alt="" />
+                        <img class="img-fluid" src="assets/images/bg/h2-gallery-2.jpg" alt="" />
                         <div class="overlay">
                             <img src="assets/images/icon/Zoom.svg" alt="" />
                         </div>
@@ -241,9 +242,9 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-3.png" data-fancybox="gallery" class="portfolio-img">
+                <a href="assets/images/bg/h2-gallery-big-3.jpg" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-3.png" alt="" />
+                        <img class="img-fluid" src="assets/images/bg/h2-gallery-3.jpg" alt="" />
                         <div class="overlay">
                             <img src="assets/images/icon/Zoom.svg" alt="" />
                         </div>
@@ -251,9 +252,9 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-4.png" data-fancybox="gallery" class="portfolio-img">
+                <a href="assets/images/bg/h2-gallery-big-4.jpg" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-4.png" alt="" />
+                        <img class="img-fluid" src="assets/images/bg/h2-gallery-4.jpg" alt="" />
                         <div class="overlay">
                             <img src="assets/images/icon/Zoom.svg" alt="" />
                         </div>
@@ -261,9 +262,9 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-5.png" data-fancybox="gallery" class="portfolio-img">
+                <a href="assets/images/bg/h2-gallery-big-5.jpg" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-5.png" alt="" />
+                        <img class="img-fluid" src="assets/images/bg/h2-gallery-5.jpg" alt="" />
                         <div class="overlay">
                             <img src="assets/images/icon/Zoom.svg" alt="" />
                         </div>
@@ -271,9 +272,9 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-6.png" data-fancybox="gallery" class="portfolio-img">
+                <a href="assets/images/bg/h2-gallery-big-6.jpg" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-6.png" alt="" />
+                        <img class="img-fluid" src="assets/images/bg/h2-gallery-6.jpg" alt="" />
                         <div class="overlay">
                             <img src="assets/images/icon/Zoom.svg" alt="" />
                         </div>
@@ -281,9 +282,9 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-7.png" data-fancybox="gallery" class="portfolio-img">
+                <a href="assets/images/bg/h2-gallery-big-7.jpg" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-7.png" alt="" />
+                        <img class="img-fluid" src="assets/images/bg/h2-gallery-7.jpg" alt="" />
                         <div class="overlay">
                             <img src="assets/images/icon/Zoom.svg" alt="" />
                         </div>
@@ -291,19 +292,9 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-8.png" data-fancybox="gallery" class="portfolio-img">
+                <a href="assets/images/bg/h2-gallery-big-8.jpg" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-8.png" alt="" />
-                        <div class="overlay">
-                            <img src="assets/images/icon/Zoom.svg" alt="" />
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-7.png" data-fancybox="gallery" class="portfolio-img">
-                    <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-9.png" alt="" />
+                        <img class="img-fluid" src="assets/images/bg/h2-gallery-8.jpg" alt="" />
                         <div class="overlay">
                             <img src="assets/images/icon/Zoom.svg" alt="" />
                         </div>
@@ -332,18 +323,18 @@
             <div class="col-xxl-6 col-xl-4 col-lg-5 col-md-6 col-sm-8">
                 <div class="contact-wrap">
                     <div class="contact-img">
-                        <img src="assets/images/bg/contact-img-01.png" alt="contact-img-01" />
+                        <img src="assets/images/bg/contact-img-01.jpg" alt="contact-img-01" />
                     </div>
                     <div class="contact-content">
-                        <h3>NewYork Branch</h3>
+                        <h3>El Peregrino</h3>
                         <ul>
                             <li>
                                 <div class="icon">
                                     <img src="assets/images/icon/location.svg" alt="location" />
                                 </div>
                                 <div class="content">
-                                    <a>Mirpur DOHS, House-167/170,<br />
-                                        Road No-02, Avenue -01</a>
+                                    <a href="https://goo.gl/maps/k3VsiG6Ven7KqtGe8?coh=178573&entry=tt"
+                                        target="_blank">Calle Zaragoza <br> esquina 20 de Noviembre</a>
                                 </div>
                             </li>
                             <li>
@@ -351,7 +342,7 @@
                                     <img src="assets/images/icon/phone.svg" alt="phone" />
                                 </div>
                                 <div class="content">
-                                    <a href="#">+990-7782200</a>
+                                    <a href="tel:+526246884872" target="_blank">624 688 4872</a>
                                 </div>
                             </li>
                             <li>
@@ -359,8 +350,7 @@
                                     <img src="assets/images/icon/envlope.svg" alt="envlope" />
                                 </div>
                                 <div class="content">
-                                    <a href="#"><span class="__cf_email__"
-                                            data-cfemail="741d1a121b34110c15190418115a171b19">[email&#160;protected]</span></a>
+                                    <a target="_blank" href="mailto:info@elperegrino.com">info@elperegrino.com</a>
                                 </div>
                             </li>
                         </ul>
@@ -452,16 +442,146 @@
     </div>
 </div>
 
-
-<div class="container">
-            <div class="section-title">
-                <span class="sub-title">Opiniones</span>
-                <h2>¿Qué dicen nuestros clientes?</h2>
+<div class="home3-testimonial mb-120">
+    <div class="container">
+        <div class="row justify-content-center mb-45">
+            <div class="col-lg-8">
+                <div class="section-title3 text-center">
+                    <span>
+                        <img class="left-vec" src="assets/images/icon/h3-sub-title-vec.svg" alt="" />Opiniones<img
+                            class="right-vec" src="assets/images/icon/h3-sub-title-vec.svg" alt="" /></span>
+                    <h2>¿Qué dicen nuestros clientes?</h2>
+                </div>
             </div>
         </div>
-    <div class="container">
-        <div class="tagembed-container" style=" width:100%;height:100%;overflow: auto;">
-            <div class="tagembed-socialwall" data-wall-id="90943" view-url="https://widget.tagembed.com/90943"> </div>
-            <script src="//widget.tagembed.com/embed.min.js" type="text/javascript"></script>
+        <div class="row mb-50">
+            <div class="swiper home3-testimonial-slider">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="testimonial-wrap">
+                            <div class="testimonial-content">
+                                <div class="quoat-icon">
+                                    <img src="assets/images/icon/Comma.svg" alt="Comma" />
+                                </div>
+                                <p>
+                                    Excelente krne!!...salsita de Habanero bien picosa...cerveza helada!!...lugar
+                                    pequeño pero de gran klidad, Staff muy atento, comimos muy rico...los baños se
+                                    pueden mejorar...en general muy recomendable!!!
+                                </p>
+                            </div>
+                            <div class="testi-author-area">
+                                <!-- <div class="author-img">
+                                    <img src="assets/images/bg/h3-testi-03.png" alt="h3-testi-03" />
+                                </div> -->
+                                <div class="name-review">
+                                    <h5>Andres</h5>
+                                    <ul>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="testimonial-wrap">
+                            <div class="testimonial-content">
+                                <div class="quoat-icon">
+                                    <img src="assets/images/icon/Comma.svg" alt="Comma" />
+                                </div>
+                                <p>
+                                    Excelencia en calidad de los alientos desde entradas hasta platos fuertes, servicio,
+                                    muy buenas opciones de vinos, buena presentación de los platillos, maestría total en
+                                    la preparación de todos sus alimentos. Vinimos 5 personas y todas estamos de acuerdo
+                                    en esta opinión 👌🏽…
+                                </p>
+                            </div>
+                            <div class="testi-author-area">
+                                <!-- <div class="author-img">
+                                    <img src="assets/images/bg/h3-testi-01.png" alt="h3-testi-03" />
+                                </div> -->
+                                <div class="name-review">
+                                    <h5>Cin Montalvo</h5>
+                                    <ul>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="testimonial-wrap">
+                            <div class="testimonial-content">
+                                <div class="quoat-icon">
+                                    <img src="assets/images/icon/Comma.svg" alt="Comma" />
+                                </div>
+                                <p>
+                                    Muy esmerados en la presentación de sus platillos así como en la atención al
+                                    comensal.
+                                    Adecuada relación costo-calidad en los platillos.
+                                    El sabor es bueno, la cocción adecuada (cortes).
+                                    Una opción muy tranquila para la comida en LC.
+                                </p>
+                            </div>
+                            <div class="testi-author-area">
+                                <!-- <div class="author-img">
+                                    <img src="assets/images/bg/h3-testi-02.png" alt="h3-testi-03" />
+                                </div> -->
+                                <div class="name-review">
+                                    <h5>Rioja Anguiano</h5>
+                                    <ul>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                        <li>
+                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="slider-btn">
+                    <div class="prev-btn-4">
+                        <i class="bi bi-arrow-left-short"></i>
+                    </div>
+                    <div class="next-btn-4">
+                        <i class="bi bi-arrow-right-short"></i>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
+</div>
