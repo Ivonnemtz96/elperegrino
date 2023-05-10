@@ -69,7 +69,7 @@
 </div>
 
 <div id="nosotros" class="mb-100"></div>
-<div class="h2-about-area pb-120" style="margin-top: 60px;" >
+<div class="h2-about-area pb-120" style="margin-top: 60px;">
     <div class="about-left2">
         <img class="img-fluid" src="/assets/images/bg/h2-about-img-full.png?=1" alt="h2-about-img-full" />
     </div>
@@ -122,7 +122,7 @@
 </div>
 
 <div id="menu" class="mb-100"></div>
-<div class="h2-reguler-item mb-120" >
+<div class="h2-reguler-item mb-120">
     <div class="container">
         <div class="row d-flex justify-content-center mb-40">
             <div class="col-lg-8">
@@ -323,7 +323,7 @@
                         <img class="left-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
                         ¡Reserva ahora!
                         <img class="right-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" /></span>
-                    <h2>Déjate sorprender por nuestros deliciosos platillos</h2>
+                    <h2>Prepárate para una velada increíble</h2>
                 </div>
             </div>
         </div>
@@ -331,7 +331,7 @@
             <div class="col-lg-10">
                 <form>
                     <div class="row justify-content-center">
-                        <div class="col-lg-6 col-md-6 mb-25">
+                        <div class="col-lg-12 col-md-12 mb-25">
                             <div class="form-inner">
                                 <input type="text" placeholder="Nombre*" />
                             </div>
@@ -344,11 +344,6 @@
                         <div class="col-lg-6 col-md-6 mb-25">
                             <div class="form-inner">
                                 <input type="text" placeholder="Pax" />
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 mb-25">
-                            <div class="form-inner date-icon">
-                                <input id="datepicker" type="text" placeholder="Date" />
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 mb-25">
