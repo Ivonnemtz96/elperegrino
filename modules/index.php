@@ -18,7 +18,7 @@
                         <p>
                             Descubre una amplia variedad de platillos internacionales en El Peregrino
                         </p>
-                        <a class="primary-btn5 btn-md2" href="about.html"><i class="bi bi-arrow-up-right-circle"></i>
+                        <a class="primary-btn5 btn-md2" href="/#menu"><i class="bi bi-arrow-up-right-circle"></i>
                             Ver más
                         </a>
                     </div>
@@ -46,7 +46,7 @@
                         <p>
                             El lugar perfecto para disfrutar de buena comida y buen ambiente.
                         </p>
-                        <a class="primary-btn5 btn-md2" href="about.html">
+                        <a class="primary-btn5 btn-md2" href="/#menu">
                             <i class="bi bi-arrow-up-right-circle"></i>
                             Ver más
                         </a>
@@ -68,7 +68,8 @@
     </div>
 </div>
 
-<div class="h2-about-area pb-120" style="margin-top: 60px;">
+<div id="nosotros" class="mb-100"></div>
+<div class="h2-about-area pb-120" style="margin-top: 60px;" >
     <div class="about-left2">
         <img class="img-fluid" src="/assets/images/bg/h2-about-img-full.png?=1" alt="h2-about-img-full" />
     </div>
@@ -116,11 +117,12 @@
                 </li>
             </ul>
         </div>
-        <a class="primary-btn5 btn-md2" href="about.html"><i class="bi bi-arrow-up-right-circle"></i>Ver menú</a>
+        <a class="primary-btn5 btn-md2" href="/#menu"><i class="bi bi-arrow-up-right-circle"></i>Ver menú</a>
     </div>
 </div>
 
-<div class="h2-reguler-item mb-120">
+<div id="menu" class="mb-100"></div>
+<div class="h2-reguler-item mb-120" >
     <div class="container">
         <div class="row d-flex justify-content-center mb-40">
             <div class="col-lg-8">
@@ -143,9 +145,10 @@
     </div>
 </div>
 
+<div id="galeria" style="height: 20px;"></div>
 
-<div class="h2-special-gallery mb-120">
-    <div class="container">
+<div class="h2-special-gallery mb-120" style="margin-top: 60px;">
+    <div class="container" style="margin-top: 100px;">
         <div class="row d-flex align-items-center justify-content-center mb-40">
             <div class="col-lg-8">
                 <div class="section-title text-center">
@@ -244,7 +247,7 @@
     </div>
 </div>
 
-<div class="contact-page pt-120" style="margin-bottom: 100px;">
+<div class="contact-page pt-120" style="margin-bottom: 100px;" id="contactar">
     <div class="container-fluid">
         <div class="row d-flex justify-content-center mb-40">
             <div class="col-lg-8">
