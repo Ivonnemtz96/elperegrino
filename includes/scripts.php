@@ -17,3 +17,6 @@
     <script src="/assets/js/imagesloaded.pkgd.js"></script>
     <script src="/assets/js/masonry.pkgd.min.js"></script>
     <script src="/assets/js/main.js"></script>
+
+    <!-- icons de redes sociales -->
+<script src="https://kit.fontawesome.com/a66c8c86d9.js" crossorigin="anonymous"></script>
