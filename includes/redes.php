@@ -193,6 +193,6 @@
 
 <div class="fb-float">
     <a href="https://www.facebook.com/elperegrinoloscabos/about_profile_transparency" target="_blank">
-        <i style="margin: 0px 4px;" class="fa-brands fa-facebook"></i><span>El Peregrino</span>
+        <i style="margin: 0px 4px;" class="fa-brands fa-facebook"></i><span>Facebook<br><small>El Peregrino</small></span>
     </a>
 </div>
