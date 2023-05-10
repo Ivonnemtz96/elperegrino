@@ -31,7 +31,7 @@
 <header class="header-area style-2">
     <div class="container-fluid d-flex justify-content-between align-items-center">
         <div class="header-logo">
-            <a href="index.html">
+            <a href="/">
                 <!-- <img alt="image" class="img-fluid" src="assets/images/header2-logo.svg" /> -->
                 LOGO
             </a>
@@ -39,7 +39,7 @@
         <div class="main-menu">
             <div class="mobile-logo-area d-lg-none d-flex justify-content-between align-items-center">
                 <div class="mobile-logo-wrap">
-                    <a href="index.html">
+                    <a href="/">
                         <!-- <img alt="image" src="assets/images/header1-logo.svg" /> -->
 
                         LOGO
@@ -51,11 +51,11 @@
             </div>
             <ul class="menu-list">
                 <li class="active">
-                    <a href="#" >Inicio</a>
+                    <a href="/" >Inicio</a>
                 </li>
-                <li><a href="about.html">Nosotros</a></li>
-                <li><a href="about.html">Galería</a></li>
-                <li><a href="about.html">Menú</a></li>
+                <li><a href="/#nosotros">Nosotros</a></li>
+                <li><a href="/#galeria">Galería</a></li>
+                <li><a href="/#menu">Menú</a></li>
             </ul>
             <div class="hotline d-lg-none d-flex mb-30">
                 <div class="hotline-icon">
@@ -77,11 +77,11 @@
                 </div>
             </div>
             <div class="reservation-btn d-lg-none d-flex">
-                <a href="reservation.html" class="primary-btn4 btn-md">Contactar</a>
+                <a href="/#contactar" class="primary-btn4 btn-md">Contactar</a>
             </div>
         </div>
         <div class="nav-right d-flex jsutify-content-end align-items-center">
-            <a href="reservation.html" class="primary-btn4 btn-md">Contactar</a>
+            <a href="/#contactar" class="primary-btn4 btn-md">Contactar</a>
             <div class="sidebar-button mobile-menu-btn">
                 <i class="bi bi-list"></i>
             </div>

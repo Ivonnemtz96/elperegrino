@@ -1,18 +1,18 @@
 <div class="banner-section2">
     <div class="banner-vector">
-        <img class="pagination-bg" src="assets/images/icon/h2-slider-paginatin-bg.svg" alt="" />
-        <img class="rect-shape1" src="assets/images/icon/h2-banner-rect-shape.svg" alt="" />
-        <img class="rect-shape2" src="assets/images/icon/h2-banner-rect-shape.svg" alt="" />
-        <img class="circle" src="assets/images/icon/h2-banner-circle.svg" alt="" />
+        <img class="pagination-bg" src="/assets/images/icon/h2-slider-paginatin-bg.svg" alt="" />
+        <img class="rect-shape1" src="/assets/images/icon/h2-banner-rect-shape.svg" alt="" />
+        <img class="rect-shape2" src="/assets/images/icon/h2-banner-rect-shape.svg" alt="" />
+        <img class="circle" src="/assets/images/icon/h2-banner-circle.svg" alt="" />
     </div>
     <div class="swiper banner2-slider">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <div class="banner-wrapper d-flex align-items-center justify-content-between">
                     <div class="banner-content">
-                        <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                        <span><img class="left-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
                             Disfruta de los mejores sabores
-                            <img class="right-vec" src="assets/images/icon/sub-title-vec.svg"
+                            <img class="right-vec" src="/assets/images/icon/sub-title-vec.svg"
                                 alt="sub-title-vec" /></span>
                         <h1>Consiéntete con nuestros platillos.</h1>
                         <p>
@@ -23,13 +23,13 @@
                         </a>
                     </div>
                     <div class="banner-right">
-                        <img class="img-fluid h2-banner-img1" src="assets/images/bg/h2-banner-img11.png?=1"
+                        <img class="img-fluid h2-banner-img1" src="/assets/images/bg/h2-banner-img11.png?=1"
                             alt="h2-banner-img1" />
-                        <img class="img-fluid h2-banner-img3" src="assets/images/bg/h2-banner-img33.png?=1"
+                        <img class="img-fluid h2-banner-img3" src="/assets/images/bg/h2-banner-img33.png?=1"
                             alt="h2-banner-img3" />
-                        <img class="img-fluid h2-banner-img2" src="assets/images/bg/h2-banner-img22.png?=1"
+                        <img class="img-fluid h2-banner-img2" src="/assets/images/bg/h2-banner-img22.png?=1"
                             alt="h2-banner-img2" />
-                        <img class="img-fluid h2-banner-img4" src="assets/images/bg/h2-banner-img44.png?=1"
+                        <img class="img-fluid h2-banner-img4" src="/assets/images/bg/h2-banner-img44.png?=1"
                             alt="h2-banner-img4" />
                     </div>
                 </div>
@@ -38,9 +38,9 @@
                 <div class="banner-wrapper d-flex align-items-center justify-content-between">
                     <div class="banner-content">
                         <span>
-                            <img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                            <img class="left-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
                             Bienvenido a El Peregrino
-                            <img class="right-vec" src="assets/images/icon/sub-title-vec.svg"
+                            <img class="right-vec" src="/assets/images/icon/sub-title-vec.svg"
                                 alt="sub-title-vec" /></span>
                         <h1>Una experiencia culinaria única.</h1>
                         <p>
@@ -52,13 +52,13 @@
                         </a>
                     </div>
                     <div class="banner-right">
-                        <img class="img-fluid h2-banner-img1" src="assets/images/bg/h2-banner-img111.png?=1"
+                        <img class="img-fluid h2-banner-img1" src="/assets/images/bg/h2-banner-img111.png?=1"
                             alt="h2-banner-img1" />
-                        <img class="img-fluid h2-banner-img3" src="assets/images/bg/h2-banner-img333.png?=1"
+                        <img class="img-fluid h2-banner-img3" src="/assets/images/bg/h2-banner-img333.png?=1"
                             alt="h2-banner-img3" />
-                        <img class="img-fluid h2-banner-img2" src="assets/images/bg/h2-banner-img222.png?=1"
+                        <img class="img-fluid h2-banner-img2" src="/assets/images/bg/h2-banner-img222.png?=1"
                             alt="h2-banner-img2" />
-                        <img class="img-fluid h2-banner-img4" src="assets/images/bg/h2-banner-img444.png?=1"
+                        <img class="img-fluid h2-banner-img4" src="/assets/images/bg/h2-banner-img444.png?=1"
                             alt="h2-banner-img4" />
                     </div>
                 </div>
@@ -70,19 +70,19 @@
 
 <div class="h2-about-area pb-120" style="margin-top: 60px;">
     <div class="about-left2">
-        <img class="img-fluid" src="assets/images/bg/h2-about-img-full.png?=1" alt="h2-about-img-full" />
+        <img class="img-fluid" src="/assets/images/bg/h2-about-img-full.png?=1" alt="h2-about-img-full" />
     </div>
     <div class="about-left">
-        <img class="img-fluid h2-about-img1" src="assets/images/bg/h2-about-img1.png?=1" alt="h2-about-img1" />
-        <img class="img-fluid h2-about-img3" src="assets/images/bg/h2-about-img3.png?=1" alt="h2-about-img3" />
-        <img class="img-fluid h2-about-img2" src="assets/images/bg/h2-about-img2.png?=1" alt="h2-about-img2" />
-        <img class="img-fluid h2-about-img4" src="assets/images/bg/h2-about-img4.png?=1" alt="h2-about-img4" />
+        <img class="img-fluid h2-about-img1" src="/assets/images/bg/h2-about-img1.png?=1" alt="h2-about-img1" />
+        <img class="img-fluid h2-about-img3" src="/assets/images/bg/h2-about-img3.png?=1" alt="h2-about-img3" />
+        <img class="img-fluid h2-about-img2" src="/assets/images/bg/h2-about-img2.png?=1" alt="h2-about-img2" />
+        <img class="img-fluid h2-about-img4" src="/assets/images/bg/h2-about-img4.png?=1" alt="h2-about-img4" />
     </div>
     <div class="about-right">
         <div class="section-title">
-            <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+            <span><img class="left-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
                 Sobre nosotros
-                <img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                <img class="right-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
             </span>
             <h2>Lo mejor de la cocina al grill.</h2>
             <p>
@@ -100,7 +100,7 @@
             <ul>
                 <li>
                     <div class="features-img">
-                        <img src="assets/images/icon/h2-about1.svg" alt="" />
+                        <img src="/assets/images/icon/h2-about1.svg" alt="" />
                     </div>
                     <div class="features-content">
                         <h4>Ingredientes frescos</h4>
@@ -108,7 +108,7 @@
                 </li>
                 <li>
                     <div class="features-img">
-                        <img src="assets/images/icon/h2-about2.svg" alt="" />
+                        <img src="/assets/images/icon/h2-about2.svg" alt="" />
                     </div>
                     <div class="features-content">
                         <h4>Comida de calidad.</h4>
@@ -125,82 +125,21 @@
         <div class="row d-flex justify-content-center mb-40">
             <div class="col-lg-8">
                 <div class="section-title text-center">
-                    <span><img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />Our New
-                        Item<img class="right-vec" src="assets/images/icon/sub-title-vec.svg"
-                            alt="sub-title-vec" /></span>
-                    <h2>Restho New Item List</h2>
-                    <p>
-                        Various versions have evolved over the years, sometimes on
-                        purpose.
-                    </p>
+                    <span>
+                        <img class="left-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                        Nuestro menú
+                        <img class="right-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" /></span>
+                    <h3 style="color:#fff;">¡Satisface tus antojos con nuestros platillos!</h3>
                 </div>
+            </div>
+            <div class="col-md-6 text-center mt-40 mb-10">
+                <img src="https://dummyimage.com/400x700/979799/fff.jpg&text=Menú" alt="">
+            </div>
+            <div class="col-md-6 text-center mt-40 mb-10">
+                <img src="https://dummyimage.com/400x700/979799/fff.jpg&text=Menú" alt="">
             </div>
         </div>
-        <div class="row position-relative">
-            <div class="swiper h2-reguler-items-slider">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="reguler-items-wrap">
-                            <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/h2-regular-items11.png" alt="" />
-                                <div class="price">
-                                    <h5>$32</h5>
-                                </div>
-                            </div>
-                            <div class="reguler-items-content">
-                                <h3><a href="shop-details.html">Prawn Fried</a></h3>
-                                <p>
-                                    It is a long established fact that a reader will be
-                                    distracted.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="reguler-items-wrap">
-                            <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/h2-regular-items12.png" alt="" />
-                                <div class="price">
-                                    <h5>$32</h5>
-                                </div>
-                            </div>
-                            <div class="reguler-items-content">
-                                <h3><a href="shop-details.html">Prawn with Noodles</a></h3>
-                                <p>
-                                    It is a long established fact that a reader will be
-                                    distracted.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="reguler-items-wrap">
-                            <div class="item-img">
-                                <img class="img-fluid" src="assets/images/bg/h2-regular-items13.png" alt="" />
-                                <div class="price">
-                                    <h5>$32</h5>
-                                </div>
-                            </div>
-                            <div class="reguler-items-content">
-                                <h3><a href="shop-details.html">Soup with Egg</a></h3>
-                                <p>
-                                    It is a long established fact that a reader will be
-                                    distracted.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="slider-btn">
-                <div class="prev-btn-3">
-                    <i class="bi bi-arrow-left-short"></i>
-                </div>
-                <div class="next-btn-3">
-                    <i class="bi bi-arrow-right-short"></i>
-                </div>
-            </div>
-        </div>
+
     </div>
 </div>
 
@@ -211,9 +150,9 @@
             <div class="col-lg-8">
                 <div class="section-title text-center">
                     <span>
-                        <img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                        <img class="left-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
                         ¡No te quedes sin probar nuestros platillos!
-                        <img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" /></span>
+                        <img class="right-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" /></span>
                     <h2>Galería</h2>
                 </div>
             </div>
@@ -222,81 +161,81 @@
     <div class="swiper h2-gallery">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-1.jpg" data-fancybox="gallery" class="portfolio-img">
+                <a href="/assets/images/bg/h2-gallery-big-1.jpg" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-1.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-1.jpg" alt="" />
                         <div class="overlay">
-                            <img src="assets/images/icon/Zoom.svg" alt="" />
+                            <img src="/assets/images/icon/Zoom.svg" alt="" />
                         </div>
                     </div>
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-2.jpg" data-fancybox="gallery" class="portfolio-img">
+                <a href="/assets/images/bg/h2-gallery-big-2.jpg" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-2.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-2.jpg" alt="" />
                         <div class="overlay">
-                            <img src="assets/images/icon/Zoom.svg" alt="" />
+                            <img src="/assets/images/icon/Zoom.svg" alt="" />
                         </div>
                     </div>
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-3.jpg" data-fancybox="gallery" class="portfolio-img">
+                <a href="/assets/images/bg/h2-gallery-big-3.jpg" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-3.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-3.jpg" alt="" />
                         <div class="overlay">
-                            <img src="assets/images/icon/Zoom.svg" alt="" />
+                            <img src="/assets/images/icon/Zoom.svg" alt="" />
                         </div>
                     </div>
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-4.jpg" data-fancybox="gallery" class="portfolio-img">
+                <a href="/assets/images/bg/h2-gallery-big-4.jpg" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-4.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-4.jpg" alt="" />
                         <div class="overlay">
-                            <img src="assets/images/icon/Zoom.svg" alt="" />
+                            <img src="/assets/images/icon/Zoom.svg" alt="" />
                         </div>
                     </div>
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-5.jpg" data-fancybox="gallery" class="portfolio-img">
+                <a href="/assets/images/bg/h2-gallery-big-5.jpg" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-5.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-5.jpg" alt="" />
                         <div class="overlay">
-                            <img src="assets/images/icon/Zoom.svg" alt="" />
+                            <img src="/assets/images/icon/Zoom.svg" alt="" />
                         </div>
                     </div>
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-6.jpg" data-fancybox="gallery" class="portfolio-img">
+                <a href="/assets/images/bg/h2-gallery-big-6.jpg" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-6.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-6.jpg" alt="" />
                         <div class="overlay">
-                            <img src="assets/images/icon/Zoom.svg" alt="" />
+                            <img src="/assets/images/icon/Zoom.svg" alt="" />
                         </div>
                     </div>
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-7.jpg" data-fancybox="gallery" class="portfolio-img">
+                <a href="/assets/images/bg/h2-gallery-big-7.jpg" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-7.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-7.jpg" alt="" />
                         <div class="overlay">
-                            <img src="assets/images/icon/Zoom.svg" alt="" />
+                            <img src="/assets/images/icon/Zoom.svg" alt="" />
                         </div>
                     </div>
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/bg/h2-gallery-big-8.jpg" data-fancybox="gallery" class="portfolio-img">
+                <a href="/assets/images/bg/h2-gallery-big-8.jpg" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="assets/images/bg/h2-gallery-8.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-8.jpg" alt="" />
                         <div class="overlay">
-                            <img src="assets/images/icon/Zoom.svg" alt="" />
+                            <img src="/assets/images/icon/Zoom.svg" alt="" />
                         </div>
                     </div>
                 </a>
@@ -311,9 +250,9 @@
             <div class="col-lg-8">
                 <div class="section-title text-center">
                     <span>
-                        <img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                        <img class="left-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
                         Contáctanos
-                        <img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                        <img class="right-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
                     </span>
                     <h2>¡Déjate sorprender por nuestras recetas! </h2>
                 </div>
@@ -323,14 +262,14 @@
             <div class="col-xxl-6 col-xl-4 col-lg-5 col-md-6 col-sm-8">
                 <div class="contact-wrap">
                     <div class="contact-img">
-                        <img src="assets/images/bg/contact-img-01.jpg" alt="contact-img-01" />
+                        <img src="/assets/images/bg/contact-img-01.jpg" alt="contact-img-01" />
                     </div>
                     <div class="contact-content">
                         <h3>El Peregrino</h3>
                         <ul>
                             <li>
                                 <div class="icon">
-                                    <img src="assets/images/icon/location.svg" alt="location" />
+                                    <img src="/assets/images/icon/location.svg" alt="location" />
                                 </div>
                                 <div class="content">
                                     <a href="https://goo.gl/maps/k3VsiG6Ven7KqtGe8?coh=178573&entry=tt"
@@ -339,7 +278,7 @@
                             </li>
                             <li>
                                 <div class="icon">
-                                    <img src="assets/images/icon/phone.svg" alt="phone" />
+                                    <img src="/assets/images/icon/phone.svg" alt="phone" />
                                 </div>
                                 <div class="content">
                                     <a href="tel:+526246884872" target="_blank">624 688 4872</a>
@@ -347,7 +286,7 @@
                             </li>
                             <li>
                                 <div class="icon">
-                                    <img src="assets/images/icon/envlope.svg" alt="envlope" />
+                                    <img src="/assets/images/icon/envlope.svg" alt="envlope" />
                                 </div>
                                 <div class="content">
                                     <a target="_blank" href="mailto:info@elperegrino.com">info@elperegrino.com</a>
@@ -371,16 +310,16 @@
 
 <div class="h2-reservarion-area mb-120">
     <div class="bg-vector">
-        <img class="img-fluid" src="assets/images/bg/h2-reservation-1.png" alt="" />
+        <img class="img-fluid" src="/assets/images/bg/h2-reservation-1.png" alt="" />
     </div>
     <div class="container">
         <div class="row d-flex align-items-center justify-content-center mb-40">
             <div class="col-lg-8">
                 <div class="section-title text-center">
                     <span>
-                        <img class="left-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
+                        <img class="left-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
                         ¡Reserva ahora!
-                        <img class="right-vec" src="assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" /></span>
+                        <img class="right-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" /></span>
                     <h2>Déjate sorprender por nuestros deliciosos platillos</h2>
                 </div>
             </div>
@@ -448,8 +387,8 @@
             <div class="col-lg-8">
                 <div class="section-title3 text-center">
                     <span>
-                        <img class="left-vec" src="assets/images/icon/h3-sub-title-vec.svg" alt="" />Opiniones<img
-                            class="right-vec" src="assets/images/icon/h3-sub-title-vec.svg" alt="" /></span>
+                        <img class="left-vec" src="/assets/images/icon/h3-sub-title-vec.svg" alt="" />Opiniones<img
+                            class="right-vec" src="/assets/images/icon/h3-sub-title-vec.svg" alt="" /></span>
                     <h2>¿Qué dicen nuestros clientes?</h2>
                 </div>
             </div>
@@ -461,7 +400,7 @@
                         <div class="testimonial-wrap">
                             <div class="testimonial-content">
                                 <div class="quoat-icon">
-                                    <img src="assets/images/icon/Comma.svg" alt="Comma" />
+                                    <img src="/assets/images/icon/Comma.svg" alt="Comma" />
                                 </div>
                                 <p>
                                     Excelente krne!!...salsita de Habanero bien picosa...cerveza helada!!...lugar
@@ -471,22 +410,22 @@
                             </div>
                             <div class="testi-author-area">
                                 <!-- <div class="author-img">
-                                    <img src="assets/images/bg/h3-testi-03.png" alt="h3-testi-03" />
+                                    <img src="/assets/images/bg/h3-testi-03.png" alt="h3-testi-03" />
                                 </div> -->
                                 <div class="name-review">
                                     <h5>Andres</h5>
                                     <ul>
                                         <li>
-                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                            <img src="/assets/images/icon/Star2.svg" alt="Star2" />
                                         </li>
                                         <li>
-                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                            <img src="/assets/images/icon/Star2.svg" alt="Star2" />
                                         </li>
                                         <li>
-                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                            <img src="/assets/images/icon/Star2.svg" alt="Star2" />
                                         </li>
                                         <li>
-                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                            <img src="/assets/images/icon/Star2.svg" alt="Star2" />
                                         </li>
                                     </ul>
                                 </div>
@@ -497,7 +436,7 @@
                         <div class="testimonial-wrap">
                             <div class="testimonial-content">
                                 <div class="quoat-icon">
-                                    <img src="assets/images/icon/Comma.svg" alt="Comma" />
+                                    <img src="/assets/images/icon/Comma.svg" alt="Comma" />
                                 </div>
                                 <p>
                                     Excelencia en calidad de los alientos desde entradas hasta platos fuertes, servicio,
@@ -508,22 +447,22 @@
                             </div>
                             <div class="testi-author-area">
                                 <!-- <div class="author-img">
-                                    <img src="assets/images/bg/h3-testi-01.png" alt="h3-testi-03" />
+                                    <img src="/assets/images/bg/h3-testi-01.png" alt="h3-testi-03" />
                                 </div> -->
                                 <div class="name-review">
                                     <h5>Cin Montalvo</h5>
                                     <ul>
                                         <li>
-                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                            <img src="/assets/images/icon/Star2.svg" alt="Star2" />
                                         </li>
                                         <li>
-                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                            <img src="/assets/images/icon/Star2.svg" alt="Star2" />
                                         </li>
                                         <li>
-                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                            <img src="/assets/images/icon/Star2.svg" alt="Star2" />
                                         </li>
                                         <li>
-                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                            <img src="/assets/images/icon/Star2.svg" alt="Star2" />
                                         </li>
                                     </ul>
                                 </div>
@@ -534,7 +473,7 @@
                         <div class="testimonial-wrap">
                             <div class="testimonial-content">
                                 <div class="quoat-icon">
-                                    <img src="assets/images/icon/Comma.svg" alt="Comma" />
+                                    <img src="/assets/images/icon/Comma.svg" alt="Comma" />
                                 </div>
                                 <p>
                                     Muy esmerados en la presentación de sus platillos así como en la atención al
@@ -546,22 +485,22 @@
                             </div>
                             <div class="testi-author-area">
                                 <!-- <div class="author-img">
-                                    <img src="assets/images/bg/h3-testi-02.png" alt="h3-testi-03" />
+                                    <img src="/assets/images/bg/h3-testi-02.png" alt="h3-testi-03" />
                                 </div> -->
                                 <div class="name-review">
                                     <h5>Rioja Anguiano</h5>
                                     <ul>
                                         <li>
-                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                            <img src="/assets/images/icon/Star2.svg" alt="Star2" />
                                         </li>
                                         <li>
-                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                            <img src="/assets/images/icon/Star2.svg" alt="Star2" />
                                         </li>
                                         <li>
-                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                            <img src="/assets/images/icon/Star2.svg" alt="Star2" />
                                         </li>
                                         <li>
-                                            <img src="assets/images/icon/Star2.svg" alt="Star2" />
+                                            <img src="/assets/images/icon/Star2.svg" alt="Star2" />
                                         </li>
                                     </ul>
                                 </div>
