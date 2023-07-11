@@ -23,13 +23,13 @@
                         </a>
                     </div>
                     <div class="banner-right">
-                        <img class="img-fluid h2-banner-img1" src="/assets/images/bg/h2-banner-img11.png?=1"
+                        <img class="img-fluid h2-banner-img1" src="/assets/images/bg/h2-banner-img11.png?=2"
                             alt="h2-banner-img1" />
-                        <img class="img-fluid h2-banner-img3" src="/assets/images/bg/h2-banner-img33.png?=1"
+                        <img class="img-fluid h2-banner-img3" src="/assets/images/bg/h2-banner-img22.png?=2"
                             alt="h2-banner-img3" />
-                        <img class="img-fluid h2-banner-img2" src="/assets/images/bg/h2-banner-img22.png?=1"
+                        <img class="img-fluid h2-banner-img2" src="/assets/images/bg/h2-banner-img33.png?=2"
                             alt="h2-banner-img2" />
-                        <img class="img-fluid h2-banner-img4" src="/assets/images/bg/h2-banner-img44.png?=1"
+                        <img class="img-fluid h2-banner-img4" src="/assets/images/bg/h2-banner-img44.png?=2"
                             alt="h2-banner-img4" />
                     </div>
                 </div>
@@ -52,13 +52,13 @@
                         </a>
                     </div>
                     <div class="banner-right">
-                        <img class="img-fluid h2-banner-img1" src="/assets/images/bg/h2-banner-img111.png?=1"
+                        <img class="img-fluid h2-banner-img1" src="/assets/images/bg/h2-banner-img111.png?=2"
                             alt="h2-banner-img1" />
-                        <img class="img-fluid h2-banner-img3" src="/assets/images/bg/h2-banner-img333.png?=1"
+                        <img class="img-fluid h2-banner-img3" src="/assets/images/bg/h2-banner-img333.png?=2"
                             alt="h2-banner-img3" />
-                        <img class="img-fluid h2-banner-img2" src="/assets/images/bg/h2-banner-img222.png?=1"
+                        <img class="img-fluid h2-banner-img2" src="/assets/images/bg/h2-banner-img222.png?=2"
                             alt="h2-banner-img2" />
-                        <img class="img-fluid h2-banner-img4" src="/assets/images/bg/h2-banner-img444.png?=1"
+                        <img class="img-fluid h2-banner-img4" src="/assets/images/bg/h2-banner-img444.png?=2"
                             alt="h2-banner-img4" />
                     </div>
                 </div>
@@ -71,13 +71,13 @@
 <div id="nosotros" class="mb-100"></div>
 <div class="h2-about-area pb-120" style="margin-top: 60px;">
     <div class="about-left2">
-        <img class="img-fluid" src="/assets/images/bg/h2-about-img-full.png?=1" alt="h2-about-img-full" />
+        <img class="img-fluid" src="/assets/images/bg/h2-about-img-full.png?=2" alt="h2-about-img-full" />
     </div>
     <div class="about-left">
-        <img class="img-fluid h2-about-img1" src="/assets/images/bg/h2-about-img1.png?=1" alt="h2-about-img1" />
-        <img class="img-fluid h2-about-img3" src="/assets/images/bg/h2-about-img3.png?=1" alt="h2-about-img3" />
-        <img class="img-fluid h2-about-img2" src="/assets/images/bg/h2-about-img2.png?=1" alt="h2-about-img2" />
-        <img class="img-fluid h2-about-img4" src="/assets/images/bg/h2-about-img4.png?=1" alt="h2-about-img4" />
+        <img class="img-fluid h2-about-img1" src="/assets/images/bg/h2-about-img1.png?=2" alt="h2-about-img1" />
+        <img class="img-fluid h2-about-img3" src="/assets/images/bg/h2-about-img3.png?=2" alt="h2-about-img3" />
+        <img class="img-fluid h2-about-img2" src="/assets/images/bg/h2-about-img2.png?=2" alt="h2-about-img2" />
+        <img class="img-fluid h2-about-img4" src="/assets/images/bg/h2-about-img4.png?=2" alt="h2-about-img4" />
     </div>
     <div class="about-right">
         <div class="section-title">
@@ -125,7 +125,7 @@
 <div class="h2-reguler-item mb-120">
     <div class="container">
         <div class="row d-flex justify-content-center mb-40">
-            <div class="col-lg-8">
+            <div class="col-lg-12">
                 <div class="section-title text-center">
                     <span>
                         <img class="left-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
@@ -134,14 +134,19 @@
                     <h3 style="color:#fff;">¡Satisface tus antojos con nuestros platillos!</h3>
                 </div>
             </div>
+        </div>
+        <div class="row justify-content-center popup-gallery">
             <div class="col-md-6 text-center mt-40 mb-10">
-                <img src="https://dummyimage.com/400x700/979799/fff.jpg&text=Menú" alt="">
+                <a href="/assets/images/bg/menu1.jpg">
+                    <img src="/assets/images/bg/menu1.jpg" style="width: 20rem;" alt="">
+                </a>
             </div>
             <div class="col-md-6 text-center mt-40 mb-10">
-                <img src="https://dummyimage.com/400x700/979799/fff.jpg&text=Menú" alt="">
+                <a href="/assets/images/bg/menu2.jpg">
+                    <img src="/assets/images/bg/menu2.jpg" style="width: 20rem;" alt="">
+                </a>
             </div>
         </div>
-
     </div>
 </div>
 
@@ -164,9 +169,9 @@
     <div class="swiper h2-gallery">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <a href="/assets/images/bg/h2-gallery-big-1.jpg" data-fancybox="gallery" class="portfolio-img">
+                <a href="/assets/images/bg/h2-gallery-big-1.jpg?=1" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-1.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-1.jpg?=1" alt="" />
                         <div class="overlay">
                             <img src="/assets/images/icon/Zoom.svg" alt="" />
                         </div>
@@ -174,9 +179,9 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="/assets/images/bg/h2-gallery-big-2.jpg" data-fancybox="gallery" class="portfolio-img">
+                <a href="/assets/images/bg/h2-gallery-big-2.jpg?=1" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-2.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-2.jpg?=1" alt="" />
                         <div class="overlay">
                             <img src="/assets/images/icon/Zoom.svg" alt="" />
                         </div>
@@ -184,9 +189,9 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="/assets/images/bg/h2-gallery-big-3.jpg" data-fancybox="gallery" class="portfolio-img">
+                <a href="/assets/images/bg/h2-gallery-big-3.jpg?=1" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-3.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-3.jpg?=1" alt="" />
                         <div class="overlay">
                             <img src="/assets/images/icon/Zoom.svg" alt="" />
                         </div>
@@ -194,9 +199,9 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="/assets/images/bg/h2-gallery-big-4.jpg" data-fancybox="gallery" class="portfolio-img">
+                <a href="/assets/images/bg/h2-gallery-big-4.jpg?=1" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-4.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-4.jpg?=1" alt="" />
                         <div class="overlay">
                             <img src="/assets/images/icon/Zoom.svg" alt="" />
                         </div>
@@ -204,9 +209,9 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="/assets/images/bg/h2-gallery-big-5.jpg" data-fancybox="gallery" class="portfolio-img">
+                <a href="/assets/images/bg/h2-gallery-big-5.jpg?=1" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-5.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-5.jpg?=1" alt="" />
                         <div class="overlay">
                             <img src="/assets/images/icon/Zoom.svg" alt="" />
                         </div>
@@ -214,9 +219,9 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="/assets/images/bg/h2-gallery-big-6.jpg" data-fancybox="gallery" class="portfolio-img">
+                <a href="/assets/images/bg/h2-gallery-big-6.jpg?=1" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-6.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-6.jpg?=1" alt="" />
                         <div class="overlay">
                             <img src="/assets/images/icon/Zoom.svg" alt="" />
                         </div>
@@ -224,9 +229,9 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="/assets/images/bg/h2-gallery-big-7.jpg" data-fancybox="gallery" class="portfolio-img">
+                <a href="/assets/images/bg/h2-gallery-big-7.jpg?=1" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-7.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-7.jpg?=1" alt="" />
                         <div class="overlay">
                             <img src="/assets/images/icon/Zoom.svg" alt="" />
                         </div>
@@ -234,9 +239,9 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="/assets/images/bg/h2-gallery-big-8.jpg" data-fancybox="gallery" class="portfolio-img">
+                <a href="/assets/images/bg/h2-gallery-big-8.jpg?=1" data-fancybox="gallery" class="portfolio-img">
                     <div class="gallery-img">
-                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-8.jpg" alt="" />
+                        <img class="img-fluid" src="/assets/images/bg/h2-gallery-8.jpg?=1" alt="" />
                         <div class="overlay">
                             <img src="/assets/images/icon/Zoom.svg" alt="" />
                         </div>
@@ -265,7 +270,7 @@
             <div class="col-xxl-6 col-xl-4 col-lg-5 col-md-6 col-sm-8">
                 <div class="contact-wrap">
                     <div class="contact-img">
-                        <img src="/assets/images/bg/contact-img-01.jpg" alt="contact-img-01" />
+                        <img src="/assets/images/bg/contact-img-01.jpg?=1" alt="contact-img-01" />
                     </div>
                     <div class="contact-content">
                         <h3>El Peregrino</h3>
