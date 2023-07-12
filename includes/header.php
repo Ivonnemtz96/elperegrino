@@ -32,17 +32,14 @@
     <div class="container-fluid d-flex justify-content-between align-items-center">
         <div class="header-logo">
             <a href="/">
-                <!-- <img alt="image" class="img-fluid" src="assets/images/header2-logo.svg" /> -->
-                LOGO
+                <img alt="image" class="img-fluid" src="assets/images/Logo.png" style="width: 13rem;" />
             </a>
         </div>
         <div class="main-menu">
             <div class="mobile-logo-area d-lg-none d-flex justify-content-between align-items-center">
                 <div class="mobile-logo-wrap">
                     <a href="/">
-                        <!-- <img alt="image" src="assets/images/header1-logo.svg" /> -->
-
-                        LOGO
+                        <img alt="image" src="assets/images/Logo.png" style="width: 13rem;" />
                     </a>
                 </div>
                 <div class="menu-close-btn">

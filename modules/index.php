@@ -71,7 +71,7 @@
 <div id="nosotros" class="mb-100"></div>
 <div class="h2-about-area pb-120" style="margin-top: 60px;">
     <div class="about-left2">
-        <img class="img-fluid" src="/assets/images/bg/h2-about-img-full.png?=2" alt="h2-about-img-full" />
+        <img class="img-fluid" src="/assets/images/bg/h2-about-img-full.webp?=2" alt="h2-about-img-full" />
     </div>
     <div class="about-left">
         <img class="img-fluid h2-about-img1" src="/assets/images/bg/h2-about-img1.png?=2" alt="h2-about-img1" />
@@ -412,9 +412,6 @@
                                 </p>
                             </div>
                             <div class="testi-author-area">
-                                <!-- <div class="author-img">
-                                    <img src="/assets/images/bg/h3-testi-03.png" alt="h3-testi-03" />
-                                </div> -->
                                 <div class="name-review">
                                     <h5>Andres</h5>
                                     <ul>
