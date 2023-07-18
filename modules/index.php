@@ -297,7 +297,7 @@
                                     <img src="/assets/images/icon/envlope.svg" alt="envlope" />
                                 </div>
                                 <div class="content">
-                                    <a target="_blank" href="mailto:info@elperegrino.com">info@elperegrino.com</a>
+                                    <a target="_blank" href="mailto:info@elperegrinocabo.com">info@elperegrinocabo.com</a>
                                 </div>
                             </li>
                         </ul>
@@ -334,47 +334,53 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-lg-10">
-                <form>
+                <form method="post" action="/php/contact.php">
                     <div class="row justify-content-center">
                         <div class="col-lg-12 col-md-12 mb-25">
                             <div class="form-inner">
-                                <input type="text" placeholder="Nombre*" />
+                                <input type="text" name="nombre" id="nombre" placeholder="Nombre*" />
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 mb-25">
                             <div class="form-inner">
-                                <input type="text" placeholder="Teléfono*" />
+                                <input type="text" name="tel" id="tel" placeholder="Teléfono*" />
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 mb-25">
                             <div class="form-inner">
-                                <input type="text" placeholder="Pax" />
+                                <input type="text" name="pax" id="pax" placeholder="Pax" />
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 mb-25">
                             <div class="form-inner">
-                                <select class="time-select">
-                                    <option value="1">01 : 00 pm</option>
-                                    <option value="2">02 : 00 pm</option>
-                                    <option value="3">03 : 00 pm</option>
-                                    <option value="4">04 : 00 pm</option>
-                                    <option value="5">05 : 00 pm</option>
-                                    <option value="6">06 : 00 pm</option>
-                                    <option value="7">07 : 00 pm</option>
-                                    <option value="8">08 : 00 pm</option>
-                                    <option value="9">09 : 00 pm</option>
-                                    <option value="10">10 : 00 pm</option>
+                                <select class="time-select" name="hora" id="hora">
+                                    <option value="1 pm">01 : 00 pm</option>
+                                    <option value="2 pm">02 : 00 pm</option>
+                                    <option value="3 pm">03 : 00 pm</option>
+                                    <option value="4 pm">04 : 00 pm</option>
+                                    <option value="5 pm">05 : 00 pm</option>
+                                    <option value="6 pm">06 : 00 pm</option>
+                                    <option value="7 pm">07 : 00 pm</option>
+                                    <option value="8 pm">08 : 00 pm</option>
+                                    <option value="9 pm">09 : 00 pm</option>
+                                    <option value="10 pm">10 : 00 pm</option>
                                 </select>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 sm-mb-25">
                             <div class="form-inner">
-                                <input type="email" placeholder="Correo" />
+                                <input type="email" name="mail" id="mail" placeholder="Correo" />
+                            </div>
+                        </div>
+                        <div class="row justify-content-center" style="margin-bottom: 3rem; margin-top:3rem;">
+                            <div class="col-12 col-md-5">
+                                <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS"
+                                    required></div>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
                             <div class="form-inner">
-                                <button type="submit">Reservar</button>
+                                <button type="submit" name="submit" id="submit">Reservar</button>
                             </div>
                         </div>
                     </div>

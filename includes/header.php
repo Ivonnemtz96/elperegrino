@@ -10,9 +10,9 @@
                 <div class="contact-info">
                     <ul>
                         <li>
-                            <a target="_blank" href="mailto:info@elperegrino.com">
+                            <a target="_blank" href="mailto:info@elperegrinocabo.com">
                                 <i class="bi bi-envelope"></i>
-                                info@elperegrino.com
+                                info@elperegrinocabo.com
                             </a>
                         </li>
                         <li>
