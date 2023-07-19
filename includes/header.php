@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-5 col-md-5 d-flex align-items-center justify-content-md-start justify-content-center">
                 <div class="open-time">
-                    <p><span>Horario</span> 1:00 pm to 11:00 pm</p>
+                    <p><span>Horario</span> 1:00 pm to 10:30 pm</p>
                 </div>
             </div>
             <div class="col-lg-7 col-md-7 d-flex justify-content-end">

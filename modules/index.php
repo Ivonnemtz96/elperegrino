@@ -12,8 +12,7 @@
                     <div class="banner-content">
                         <span><img class="left-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
                             Disfruta de los mejores sabores
-                            <img class="right-vec" src="/assets/images/icon/sub-title-vec.svg"
-                                alt="sub-title-vec" /></span>
+                            <img class="right-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" /></span>
                         <h1>Consiéntete con nuestros platillos.</h1>
                         <p>
                             Descubre una amplia variedad de platillos internacionales en El Peregrino
@@ -23,14 +22,10 @@
                         </a>
                     </div>
                     <div class="banner-right">
-                        <img class="img-fluid h2-banner-img1" src="/assets/images/bg/h2-banner-img11.png?=2"
-                            alt="h2-banner-img1" />
-                        <img class="img-fluid h2-banner-img3" src="/assets/images/bg/h2-banner-img22.png?=2"
-                            alt="h2-banner-img3" />
-                        <img class="img-fluid h2-banner-img2" src="/assets/images/bg/h2-banner-img33.png?=2"
-                            alt="h2-banner-img2" />
-                        <img class="img-fluid h2-banner-img4" src="/assets/images/bg/h2-banner-img44.png?=2"
-                            alt="h2-banner-img4" />
+                        <img class="img-fluid h2-banner-img1" src="/assets/images/bg/h2-banner-img11.png?=2" alt="h2-banner-img1" />
+                        <img class="img-fluid h2-banner-img3" src="/assets/images/bg/h2-banner-img22.png?=2" alt="h2-banner-img3" />
+                        <img class="img-fluid h2-banner-img2" src="/assets/images/bg/h2-banner-img33.png?=2" alt="h2-banner-img2" />
+                        <img class="img-fluid h2-banner-img4" src="/assets/images/bg/h2-banner-img44.png?=2" alt="h2-banner-img4" />
                     </div>
                 </div>
             </div>
@@ -40,8 +35,7 @@
                         <span>
                             <img class="left-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" />
                             Bienvenido a El Peregrino
-                            <img class="right-vec" src="/assets/images/icon/sub-title-vec.svg"
-                                alt="sub-title-vec" /></span>
+                            <img class="right-vec" src="/assets/images/icon/sub-title-vec.svg" alt="sub-title-vec" /></span>
                         <h1>Una experiencia culinaria única.</h1>
                         <p>
                             El lugar perfecto para disfrutar de buena comida y buen ambiente.
@@ -52,14 +46,10 @@
                         </a>
                     </div>
                     <div class="banner-right">
-                        <img class="img-fluid h2-banner-img1" src="/assets/images/bg/h2-banner-img111.png?=2"
-                            alt="h2-banner-img1" />
-                        <img class="img-fluid h2-banner-img3" src="/assets/images/bg/h2-banner-img333.png?=2"
-                            alt="h2-banner-img3" />
-                        <img class="img-fluid h2-banner-img2" src="/assets/images/bg/h2-banner-img222.png?=2"
-                            alt="h2-banner-img2" />
-                        <img class="img-fluid h2-banner-img4" src="/assets/images/bg/h2-banner-img444.png?=2"
-                            alt="h2-banner-img4" />
+                        <img class="img-fluid h2-banner-img1" src="/assets/images/bg/h2-banner-img111.png?=2" alt="h2-banner-img1" />
+                        <img class="img-fluid h2-banner-img3" src="/assets/images/bg/h2-banner-img333.png?=2" alt="h2-banner-img3" />
+                        <img class="img-fluid h2-banner-img2" src="/assets/images/bg/h2-banner-img222.png?=2" alt="h2-banner-img2" />
+                        <img class="img-fluid h2-banner-img4" src="/assets/images/bg/h2-banner-img444.png?=2" alt="h2-banner-img4" />
                     </div>
                 </div>
             </div>
@@ -135,16 +125,58 @@
                 </div>
             </div>
         </div>
-        <div class="row justify-content-center popup-gallery">
-            <div class="col-md-6 text-center mt-40 mb-10">
-                <a href="/assets/images/bg/menu1.jpg">
-                    <img src="/assets/images/bg/menu1.jpg" style="width: 20rem;" alt="">
-                </a>
-            </div>
-            <div class="col-md-6 text-center mt-40 mb-10">
-                <a href="/assets/images/bg/menu2.jpg">
-                    <img src="/assets/images/bg/menu2.jpg" style="width: 20rem;" alt="">
-                </a>
+        <div class="menu2-area">
+            <div class="container">
+                <div class="row justify-content-center popup-gallery">
+                    <div class="col-lg-12">
+                        <div class="menu2-tab mb-70">
+                            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                <li class="nav-item" role="presentation">
+                                    <button style="color: #fff;" class="nav-link active" id="breakfast-tab" data-bs-toggle="tab" data-bs-target="#breakfast" type="button" role="tab" aria-controls="breakfast" aria-selected="true">
+                                        Español
+                                    </button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button style="color: #fff;" class="nav-link" id="lunch-tab" data-bs-toggle="tab" data-bs-target="#lunch" type="button" role="tab" aria-controls="lunch" aria-selected="false">
+                                        English
+                                    </button>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="tab-content" id="myTabContent">
+                            <div class="tab-pane fade show active" id="breakfast" role="tabpanel" aria-labelledby="breakfast-tab">
+                                <div class="row">
+                                    <div class="col-lg-6 p-0 text-center">
+                                        <a href="/assets/images/bg/menu1.jpg">
+                                            <img src="/assets/images/bg/menu1.jpg" style="width: 20rem;" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-6 p-0 text-center">
+                                        <a href="/assets/images/bg/menu2.jpg">
+                                            <img src="/assets/images/bg/menu2.jpg" style="width: 20rem;" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="lunch" role="tabpanel" aria-labelledby="lunch-tab">
+                                <div class="row">
+                                    <div class="col-lg-6 p-0 text-center">
+                                        <a href="/assets/images/bg/menu3.jpg">
+                                            <img src="/assets/images/bg/menu3.jpg" style="width: 20rem;" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-6 p-0 text-center">
+                                        <a href="/assets/images/bg/menu4.jpg">
+                                            <img src="/assets/images/bg/menu4.jpg" style="width: 20rem;" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -280,8 +312,7 @@
                                     <img src="/assets/images/icon/location.svg" alt="location" />
                                 </div>
                                 <div class="content">
-                                    <a href="https://goo.gl/maps/k3VsiG6Ven7KqtGe8?coh=178573&entry=tt"
-                                        target="_blank">Calle Zaragoza <br> esquina 20 de Noviembre</a>
+                                    <a href="https://goo.gl/maps/k3VsiG6Ven7KqtGe8?coh=178573&entry=tt" target="_blank">Calle Zaragoza <br> esquina 20 de Noviembre</a>
                                 </div>
                             </li>
                             <li>
@@ -306,10 +337,7 @@
             </div>
             <div class="col-xxl-6 col-xl-4 col-lg-5 col-md-6 col-sm-8">
                 <div class="contact-wrap">
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2675.245206007313!2d-109.91515764245001!3d22.888906624635776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4afa990b3aab%3A0xfd615a0b4d85c860!2sEl%20Peregrino!5e0!3m2!1ses-419!2smx!4v1683650968712!5m2!1ses-419!2smx"
-                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2675.245206007313!2d-109.91515764245001!3d22.888906624635776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4afa990b3aab%3A0xfd615a0b4d85c860!2sEl%20Peregrino!5e0!3m2!1ses-419!2smx!4v1683650968712!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
@@ -374,8 +402,7 @@
                         </div>
                         <div class="row justify-content-center" style="margin-bottom: 3rem; margin-top:3rem;">
                             <div class="col-12 col-md-5">
-                                <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS"
-                                    required></div>
+                                <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required></div>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
@@ -396,8 +423,7 @@
             <div class="col-lg-8">
                 <div class="section-title3 text-center">
                     <span>
-                        <img class="left-vec" src="/assets/images/icon/h3-sub-title-vec.svg" alt="" />Opiniones<img
-                            class="right-vec" src="/assets/images/icon/h3-sub-title-vec.svg" alt="" /></span>
+                        <img class="left-vec" src="/assets/images/icon/h3-sub-title-vec.svg" alt="" />Opiniones<img class="right-vec" src="/assets/images/icon/h3-sub-title-vec.svg" alt="" /></span>
                     <h2>¿Qué dicen nuestros clientes?</h2>
                 </div>
             </div>
