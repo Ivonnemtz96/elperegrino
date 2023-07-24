@@ -344,7 +344,7 @@
     </div>
 </div>
 
-<div class="h2-reservarion-area mb-120">
+<div hidden class="h2-reservarion-area mb-120">
     <div class="bg-vector">
         <img class="img-fluid" src="/assets/images/bg/h2-reservation-1.png" alt="" />
     </div>
