@@ -149,13 +149,13 @@
                             <div class="tab-pane fade show active" id="breakfast" role="tabpanel" aria-labelledby="breakfast-tab">
                                 <div class="row">
                                     <div class="col-lg-6 p-0 text-center">
-                                        <a href="/assets/images/bg/menu1.jpg">
-                                            <img src="/assets/images/bg/menu1.jpg" style="width: 20rem;" alt="">
+                                        <a href="/assets/images/bg/01.jpg">
+                                            <img src="/assets/images/bg/01.jpg" style="width: 20rem;" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-6 p-0 text-center">
-                                        <a href="/assets/images/bg/menu2.jpg">
-                                            <img src="/assets/images/bg/menu2.jpg" style="width: 20rem;" alt="">
+                                        <a href="/assets/images/bg/02.jpg">
+                                            <img src="/assets/images/bg/02.jpg" style="width: 20rem;" alt="">
                                         </a>
                                     </div>
                                 </div>
