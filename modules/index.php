@@ -149,13 +149,13 @@
                             <div class="tab-pane fade show active" id="breakfast" role="tabpanel" aria-labelledby="breakfast-tab">
                                 <div class="row">
                                     <div class="col-lg-6 p-0 text-center">
-                                        <a href="/assets/images/bg/01.jpg">
-                                            <img src="/assets/images/bg/01.jpg" style="width: 20rem;" alt="">
+                                        <a href="/assets/images/bg/01.jpg" >
+                                            <img src="/assets/images/bg/01.jpg" style="width: 20rem;" alt="El Peregrino">
                                         </a>
                                     </div>
                                     <div class="col-lg-6 p-0 text-center">
-                                        <a href="/assets/images/bg/02.jpg">
-                                            <img src="/assets/images/bg/02.jpg" style="width: 20rem;" alt="">
+                                        <a href="/assets/images/bg/02.jpg" >
+                                            <img src="/assets/images/bg/02.jpg" style="width: 20rem;" alt="El Peregrino">
                                         </a>
                                     </div>
                                 </div>
@@ -163,13 +163,13 @@
                             <div class="tab-pane fade" id="lunch" role="tabpanel" aria-labelledby="lunch-tab">
                                 <div class="row">
                                     <div class="col-lg-6 p-0 text-center">
-                                        <a href="/assets/images/bg/menu3.jpg">
-                                            <img src="/assets/images/bg/menu3.jpg" style="width: 20rem;" alt="">
+                                        <a href="/assets/images/bg/01-eng.jpg" >
+                                            <img src="/assets/images/bg/01-eng.jpg" style="width: 20rem;" alt="El Peregrino">
                                         </a>
                                     </div>
                                     <div class="col-lg-6 p-0 text-center">
-                                        <a href="/assets/images/bg/menu4.jpg">
-                                            <img src="/assets/images/bg/menu4.jpg" style="width: 20rem;" alt="">
+                                        <a href="/assets/images/bg/02-eng.jpg" >
+                                            <img src="/assets/images/bg/02-eng.jpg" style="width: 20rem;" alt="El Peregrino">
                                         </a>
                                     </div>
                                 </div>
